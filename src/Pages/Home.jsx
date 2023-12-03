@@ -8,23 +8,23 @@ const Home = () => {
 		<div className="text-white px-[10%]" id="Home">
 			<Navbar />
 			<div className="lg:hidden">
-				<div className="font-bold text-5xl text-center py-20 ">XI TKJ 3</div>
+				<div className="font-bold text-5xl text-center py-20 ">OSIS SMP 3</div>
 				<div
 					className="border-2 flex justify-between px-10 text-4xl font-bold py-2 relative"
 					id="TotalSiswa">
 					<div id="AngkaGradientBlue" className="flex items-center justify-center ">
-						25
+						23
 					</div>
 					<div className="">
 						<span id="AngkaGradientBlue" className="text-5xl">
-							3
+							2
 						</span>
 						<span id="AngkaGradientPink" className="text-5xl">
-							7
+							4
 						</span>
 					</div>
 					<div id="AngkaGradientPink" className="flex items-center justify-center">
-						12
+						 0
 					</div>
 				</div>
 
@@ -42,12 +42,12 @@ const Home = () => {
 			{/* Dekstop */}
 			<div className="hidden lg:block">
 				<div className="flex justify-center items-center flex-col h-[100vh]">
-					<h5 className="text-[1.4rem] font-semibold">Hi, Visitor!</h5>
+					<h5 className="text-[1.4rem] font-semibold">HALO COY!</h5>
 					<h1 className="text-7xl font-extrabold" id="Glow">
 						WELCOME
 					</h1>
 					<h6 className="text-sm" style={{ letterSpacing: "5px" }}>
-						TO XI TKJ 3
+						TO WEB OSIS SMP 3
 					</h6>
 				</div>
 			</div>

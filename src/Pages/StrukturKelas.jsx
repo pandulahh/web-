@@ -18,7 +18,7 @@ const StrukturKelas = () => {
 		<div className="z-1  relative h-auto lg:h-[83vh] lg:overflow-hidden">
 			{/* wali kelas */}
 			<div data-aos="fade-up" data-aos-duration="500" className="mt-14 md:mt-10">
-				<BorderStruktur Jabatan="Wali Kelas" Nama="Abdul Wahab S.Pdi" Width="150px" />
+				<BorderStruktur Jabatan="Pembina osis" Nama="Ana Oswari S.PD" Width="150px" />
 			</div>
 			<div className="flex flex-col justify-center items-center">
 				<img src="LineVertikal.svg" alt="" data-aos="fade-up" data-aos-duration="550" />
@@ -66,14 +66,14 @@ const StrukturKelas = () => {
 				{/* wakil dan ketua */}
 				<div className="flex relative top-[-3rem]" data-aos="fade-up" data-aos-duration="1200">
 					<div className="relative left-[0.2rem]">
-						<BorderStruktur Jabatan="Ketua Kelas" Nama="Fadly" Width="120px" />
+						<BorderStruktur Jabatan="Ketua Osis" Nama="Pandulahh" Width="120px" />
 					</div>
 					<img src="LineHorizontalPendek.svg" className="relative top-3" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<div className="relative right-[0.2rem]">
-						<BorderStruktur Jabatan="Wakil Ketua" Nama="Sulthan" Width="120px" />
+						<BorderStruktur Jabatan="Wakil Ketua" Nama="Mutiah" Width="120px" />
 					</div>
 				</div>
 
@@ -128,15 +128,15 @@ const StrukturKelas = () => {
 					data-aos="fade-up"
 					data-aos-duration="1200">
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Sekertaris" Nama="Rafly" Width="120px" />
+						<BorderStruktur Jabatan="Sekertaris" Nama="Alea" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Hisyam" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Nadia" Width="120px" />
 					</div>
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Bendahara" Nama="Dendy" Width="120px" />
+						<BorderStruktur Jabatan="Bendahara" Nama="Tania" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Raka" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Ravi" Width="120px" />
 					</div>
 				</div>
 
@@ -198,21 +198,21 @@ const StrukturKelas = () => {
 					data-aos="fade-up"
 					data-aos-duration="1100">
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Keamanan" Nama="Nicholas" Width="120px" />
+						<BorderStruktur Jabatan="Keamanan" Nama="..." Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Wahid" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="..." Width="120px" />
 					</div>
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Kebersihan" Nama="Maria" Width="120px" />
+						<BorderStruktur Jabatan="Kebersihan" Nama="..." Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Paulista" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="..." Width="120px" />
 					</div>
 
 					<div className="flex-col hidden lg:flex">
-						<BorderStruktur Jabatan="Kebersihan" Nama="Maria" Width="120px" />
+						<BorderStruktur Jabatan="Kebersihan" Nama="..." Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Paulista" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="..." Width="120px" />
 					</div>
 				</div>
 
@@ -225,9 +225,9 @@ const StrukturKelas = () => {
 						<img src="LineVertikal3.svg" alt="" className="lg:hidden" />
 						<img src="Circle.svg" alt="" className="relative top-[-0.7rem]" />
 						<div className="relative bottom-3">
-							<BorderStruktur Jabatan="Kesehatan" Nama="Ridho" Width="120px" />
+							<BorderStruktur Jabatan="Kesehatan" Nama="..." Width="120px" />
 							<div className="py-[3%]"></div>
-							<BorderStruktur Jabatan="" Nama="Amel" Width="120px" />
+							<BorderStruktur Jabatan="" Nama="..." Width="120px" />
 						</div>
 					</div>
 				</div>
